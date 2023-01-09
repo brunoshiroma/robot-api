@@ -6,5 +6,6 @@ venv
 
 # robot
 log.xml
+log.html
 output.xml
 report.html
