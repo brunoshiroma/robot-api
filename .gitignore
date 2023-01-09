@@ -1,0 +1,10 @@
+# python
+__pycache__
+
+# python virtual env
+venv
+
+# robot
+log.xml
+output.xml
+report.html
